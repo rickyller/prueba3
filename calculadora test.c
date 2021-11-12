@@ -10,4 +10,7 @@ int main()
     
     printf("Escribe otro numero");
     scanf("%i",&n2);
+
+    printf("El resultado de la suma es:");
+    scanf("%i",&r);
 }
